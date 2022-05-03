@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CaiBirdHSA&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi 👋
+### Hi, World! 👋
 
 - :book: Focusing on Matlab & Python
 - :construction_worker:  M.D. of Physical Oceanography
@@ -12,7 +12,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
 	<a href="https://github.com/programmer-zhang" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiBirdHSA&theme=highcontrast" width="61.8%" alt="savuer's github readme streak stats"/>
 	</a>
