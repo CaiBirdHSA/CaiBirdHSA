@@ -2,8 +2,8 @@
 
 ### 你好，世界 👋
 
-- :orange_book: Focusing on Matlab & Python
-- :book: M.D. of Physical Oceanography
-- :ram: Founder the ObjCCN
+- :book: Focusing on Matlab & Python
+- :construction_worker:  M.D. of Physical Oceanography
+- :globe_with_meridians: Interests: Geo-referenced information
 - :meat_on_bone: Meat lover
 
