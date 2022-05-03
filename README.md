@@ -3,7 +3,7 @@
 ### 你好，世界 👋
 
 - :orange_book: Focusing on Matlab & Python
-- :hammer: M.D. of Physical Oceanography
+- :book: M.D. of Physical Oceanography
 - :ram: Founder the ObjCCN
 - :meat_on_bone: Meat lover
 
