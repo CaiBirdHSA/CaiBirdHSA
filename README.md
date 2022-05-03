@@ -12,7 +12,7 @@
 
 ---
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/programmer-zhang" target="_blank">
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=CaiBirdHSA&theme=highcontrast" width="61.8%" alt="savuer's github readme streak stats"/>
 	</a>
