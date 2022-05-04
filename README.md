@@ -8,7 +8,6 @@
 
 - :book: Focusing on Matlab & Python
 - :construction_worker:  M.D. of Physical Oceanography
-- :globe_with_meridians: Interests: Geo-referenced information
 - :meat_on_bone: Meat lover
 
 ---
