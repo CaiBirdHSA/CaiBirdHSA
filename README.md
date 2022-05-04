@@ -3,7 +3,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=CaiBirdHSA&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-### Hi, World! 👋
+<!-- ### Hi, World! 👋 -->
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 - :book: Focusing on Matlab & Python
 - :construction_worker:  M.D. of Physical Oceanography
